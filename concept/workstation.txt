@@ -1,0 +1,6 @@
+Definition - What does Workstation (WS) mean?
+	A workstation (WS) is a computer dedicated to a user or group of users engaged in business or professional work. It includes one or more high resolution displays and a faster processor than a personal computer (PC). A workstation also has greater multitasking capability because of additional random access memory (RAM), drives and drive capacity. A workstation may also have a higher-speed graphics adapters and more connected peripherals.
+
+	The term workstation also has been used to reference a PC or mainframe terminal on a local area network (LAN). These workstations may share network resources with one or more large client computers and network servers.
+
+
